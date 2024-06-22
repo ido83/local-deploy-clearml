@@ -84,9 +84,9 @@ spec:
 
 ```
 2. Deploy the ClearML Agent
-   ```
-kubectl apply -f clearml-agent-deployment.yaml
-   ```
+ ```
+      kubectl apply -f clearml-agent-deployment.yaml
+ ```
 # If ClearML Web Service is Missing
 Check svc:
 ```
